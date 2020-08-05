@@ -1,4 +1,4 @@
- <img src="https://scontent.faep8-1.fna.fbcdn.net/v/t1.0-9/117120956_3148017055280949_1661838286492887989_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=vEfdJMyCJQYAX873SG2&_nc_ht=scontent.faep8-1.fna&oh=3afcae42db8f456a661a981a8c05318e&oe=5F4F6114" alt="frontdev" width="1000" height="400" />
+ <img src="https://scontent.faep8-2.fna.fbcdn.net/v/t1.0-9/114320517_3148468338569154_1992304125709286871_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=3xdWYcE-32oAX-EZ-6G&_nc_ht=scontent.faep8-2.fna&oh=d6cab37300325209c429c0896774db75&oe=5F50BE47" alt="frontdev" width="1000" height="400" />
 
 ### Hi there, I'm Matias a self taught Front End Developer from Argentina👋
 
@@ -30,6 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 
 <br />
 <br /
