@@ -1,6 +1,3 @@
- <img src="https://scontent.faep8-2.fna.fbcdn.net/v/t1.0-9/114320517_3148468338569154_1992304125709286871_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=3xdWYcE-32oAX-EZ-6G&_nc_ht=scontent.faep8-2.fna&oh=d6cab37300325209c429c0896774db75&oe=5F50BE47" alt="frontdev" width="1000" height="400" />
-
-
 ### Hi there, I'm Matias a self taught Front End Developer from Argentina👋
 
 I am a self-taught front end developer who loves web development, I like to be able to build whatever comes to mind even if it is difficult and gives me headaches lol, especially I like vanilla Css and Javascript.
