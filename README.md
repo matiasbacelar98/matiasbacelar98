@@ -3,7 +3,7 @@
 I am a self-taught front end developer who loves web development, I like to be able to build whatever comes to mind even if it is difficult and gives me headaches lol, especially I like vanilla Css and Javascript.
 
 
-- 🔭 I’m currently learning Vue & React!
+- 🔭 I’m currently learning Vue !
 - 🥅 2020 Goals: Get a job as a Web Developer
 - ⚡ Fun fact: I love to train martial arts & exercise
 - 🎨 Love UI Design 
