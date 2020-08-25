@@ -1,22 +1,16 @@
-### Hi there, I'm Matias a self taught Front End Developer from Argentina👋
+### Hi there 👋, my name is Matias
+#### I am Front End Developer
+![I am Front End Developer](https://scontent.faep8-1.fna.fbcdn.net/v/t1.0-9/118095872_3204122606337060_7089690340429955930_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_eui2=AeFNn8hyCq-eduEKMrTZU-ZhaSbYsQAIq49pJtixAAirj5N2dMzIy7YNQDRe7w5e8iq8GxA474k90Qo52smUEMio&_nc_ohc=zJOL50EWz7wAX-IHPB5&_nc_ht=scontent.faep8-1.fna&oh=394f53f56ee9738d0e40a7a4f83b3c38&oe=5F68D703)
 
-I am a self-taught front end developer who loves web development, I like to be able to build whatever comes to mind even if it is difficult and gives me headaches lol, especially I like vanilla Css and Javascript.
+I'm Matias from Argentina , and i am a Front End Developer. I really enjoy learning different technologies especially libraries like gsap , anime js and barba js.
+I also enjoy design particularly ui design,  create mockups , prototypes 
+etc.
+
+Skills: HTML5 / CSS3 / JAVASCRIPT / SASS / BOOTSTRAP / WORDPRESS / SEO / GIT 
+
+- 🔭 I’m currently working on  Different personal projects 
+- 🌱 I’m currently learning Barba js and Vue Js 
+- ⚡ Fun fact: I love to train Martial Arts  
 
 
-- 🔭 I’m currently learning Vue !
-- 🥅 2020 Goals: Get a job as a Web Developer
-- ⚡ Fun fact: I love to train martial arts & exercise
-- 🎨 Love UI Design 
-
-### Connect with me:
-
-<a href="https://ar.linkedin.com/in/matias-bacelar-371140199"><img align="left" alt="mb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
-
-<a href="https://www.instagram.com/matibace/?hl=en"><img align="left" alt="mb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a/>
- 
- <a href="https://www.facebook.com/matias.bacelar.5"><img align="left" alt="mb | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" /><a/>
-
-<br />
-
----
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matiasbacelar98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matias-bacelar-371140199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/matias.bacelar.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/matibace/)  
