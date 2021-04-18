@@ -7,9 +7,8 @@ and Styled components!
 
 
 ## I'm a Front-End Developer From Argentina !
-- 🔭  I’m currently working on  Different personal projects 
-- 🌱 I’m currently learning Barba js 
-- ⚡ Fun fact: I love to train Martial Arts  
+- 🔭  I’m currently working on  Different personal projects and building my portfolio
+- ⚡ Fun fact: I love to train Martial Arts & obviously code :)
 
 ### Connect with me:
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="22px">](https://github.com/matiasbacelar98)
