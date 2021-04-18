@@ -8,14 +8,14 @@ and Styled components!
 - 🔭  I’m currently working on  Different personal projects and building my portfolio
 - ⚡ Fun fact: I love to train Martial Arts & obviously code :)
 
-### Connect with me:
+## Connect with me:
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="22px">](https://github.com/matiasbacelar98)
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  width="22px">](https://www.linkedin.com/in/matias-bacelar-371140199/)[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook'  width="22px">](https://www.facebook.com/matias.bacelar.5)
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'  width="22px">](https://www.instagram.com/matibace/)  
 
 <br />
 
-### Languages and Tools
+## Languages and Tools
 <p align="left"> 
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
