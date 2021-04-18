@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Matias 
 
 ![Header](https://user-images.githubusercontent.com/64114079/91522625-18329b00-e8d1-11ea-9909-ac1d54bfbeeb.jpg)
-I'm Matias from Argentina , and i am a Front End Developer. I really enjoy learning different technologies especially libraries like gsap , anime js and barba js.
-I also enjoy design particularly ui design,  create mockups , prototypes 
-etc.
+I'm Matias from Argentina , and i am a Front End Developer. I really enjoy learning different technologies especially animation libraries like gsap and barba js , i loved React js
+and Styled components!
+
 
 
 ## I'm a Front-End Developer From Argentina !
