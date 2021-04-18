@@ -10,7 +10,6 @@ etc.
 - 🔭  I’m currently working on  Different personal projects 
 - 🌱 I’m currently learning Barba js 
 - ⚡ Fun fact: I love to train Martial Arts  
-- 🥅 2020 Goals: survive ?
 
 ### Connect with me:
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="22px">](https://github.com/matiasbacelar98)
