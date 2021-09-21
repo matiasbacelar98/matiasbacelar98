@@ -3,7 +3,12 @@
 ![Header](http://sonivikram.com/assets/images/blog/javascript-is-future-programming-language-vikram-soni.png)
 
 ## Soy un Frontend Developer de Argentina 
-Hola soy Matias Frontend Developer de argentina , me gusta programar interfazes de usuario y sobre todo crear animaciones usando librerias como Gsap JS y Barba JS o Framer Motion si estoy usando React JS   
+Hola me llamo Matias soy Front End Developer ✌
+
+Programar es un hobby que tengo desde hace un tiempo , no me acuerdo exactamente pero todavia Flexbox no tenia soporte ,  fue cuando este tuvo soporte que empeze a disfrutar construir sitios y aplicaciones web ( los que usaban CSS antes de flexbox se acordaran de que teniamos que flotar y limpiar y cambiar displays para tener navegaciones , todo muy divertido 😬) despues de Flexbox aparecio Grid y bueno construir sitios web responsive se volvio super divertido aunque hay que agregar que introdujo su propia complejidad.
+
+Tengo mucho interes por el ecosistema de React y en especial librerias de animaciones como Framer Motion !!!
+   
 
 
 ## Connect with me:
