@@ -11,14 +11,14 @@ Tengo mucho interes por el ecosistema de React y en especial librerias de animac
    
 
 
-## Connect with me:
+## Contactame 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="30px">](https://github.com/matiasbacelar98)
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  width="30px">](https://www.linkedin.com/in/matias-bacelar-371140199/)[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook'  width="30px">](https://www.facebook.com/matias.bacelar.5)
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'  width="30px">](https://www.instagram.com/matibace/)  
 
 <br />
 
-## Languages and Tools
+## Lenguajes & Tecnologias
 <p align="left"> 
   
  
