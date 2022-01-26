@@ -23,6 +23,7 @@ Tengo mucho interes por el ecosistema de React y en especial librerias de animac
 <img align="center" alt="Gulp JS" width="25px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/gulp.png" />&nbsp; 
 <img align="center" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
 <img align="center" alt="Next JS" width="40px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />&nbsp;
+<img align="center" alt="Framer Motion" width="35px" src="https://user-images.githubusercontent.com/64114079/151240446-9b1afc59-a885-4826-ad2f-e63499ac5ae0.png" />&nbsp;
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
 <img align="center" alt="Figma" width="25px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />&nbsp;
 <img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
