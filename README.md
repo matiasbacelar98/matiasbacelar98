@@ -31,9 +31,12 @@ Tengo mucho interes por el ecosistema de React y en especial en librerias de ani
 </p>
 
 ## Contactame 
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="30px">](https://github.com/matiasbacelar98)
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  width="30px">](https://www.linkedin.com/in/matias-bacelar-371140199/)[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook'  width="30px">](https://www.facebook.com/matias.bacelar.5)
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'  width="30px">](https://www.instagram.com/matibace/)  
+<div align='left'>
+  <a href='https://github.com/matiasbacelar98'><img src='https://user-images.githubusercontent.com/64114079/157298845-98f0c383-e5ab-4b64-9b38-aed5bb013c0e.svg' alt='github' width="38px"></a>&nbsp;&nbsp;&nbsp;
+  <a href='https://www.linkedin.com/in/matias-bacelar-371140199/'><img src='https://user-images.githubusercontent.com/64114079/157298847-23027dd4-0529-4c50-955d-8f22d4ea3f4d.svg' alt='linkedin' width="35px"></a>&nbsp;&nbsp;&nbsp;
+  <a href='https://matiasbacelar.vercel.app/CV-Matias-Bacelar.pdf'><img src='https://user-images.githubusercontent.com/64114079/157298842-2b7c453a-1611-4a09-84c3-be671c75bba4.svg'     alt='curriculum-vitae' width="45px"></a>
+</div>
+    
 
 
 
