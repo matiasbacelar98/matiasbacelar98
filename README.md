@@ -1,14 +1,16 @@
+<div align="center">
+  <img width='70%' alt="header-img" src="https://user-images.githubusercontent.com/64114079/157277356-6c1045f8-c22b-4754-b95e-853ecddbe92b.svg" />
+</div>
+
+<br/>
+
 ### Hola 👋, me llamo Matias 
 
-![Header](http://sonivikram.com/assets/images/blog/javascript-is-future-programming-language-vikram-soni.png)
-
-## Soy un Frontend Developer de Argentina 
-Hola me llamo Matias soy Front End Developer ✌
+Hola me llamo Matias soy Front End Developer autodidacta ✌ con foco en Javascript y React.
 
 Programar es un hobby que tengo desde hace un tiempo , no me acuerdo exactamente pero todavia Flexbox no tenia soporte ,  fue cuando este tuvo soporte que empeze a disfrutar construir sitios y aplicaciones web ( los que usaban CSS antes de flexbox se acordaran de que teniamos que flotar y limpiar y cambiar displays para tener navegaciones , todo muy divertido 😬) despues de Flexbox aparecio Grid y bueno construir sitios web responsive se volvio super divertido aunque hay que agregar que introdujo su propia complejidad.
 
-Tengo mucho interes por el ecosistema de React y en especial librerias de animaciones como Framer Motion !!!
-
+Tengo mucho interes por el ecosistema de React y en especial en librerias de animaciones como Gsap y Framer Motion.
 
 ## Lenguajes & Tecnologias
 <p align="left"> 
@@ -28,7 +30,6 @@ Tengo mucho interes por el ecosistema de React y en especial librerias de animac
 <img align="center" alt="Figma" width="25px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />&nbsp;
 <img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 </p>
-
 
 ## Contactame 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="30px">](https://github.com/matiasbacelar98)
