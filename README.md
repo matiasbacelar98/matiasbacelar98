@@ -3,9 +3,6 @@
 </div>
 
 
-
-<br/>
-
 ### Hola 👋, me llamo Matias 
 
 Hola me llamo Matias soy Front End Developer autodidacta ✌ con foco en Javascript y React.
