@@ -3,15 +3,15 @@
 </div>
 
 
-### Hola 👋, me llamo Matias 
+### Hello 👋, my name is Matías
 
-Hola me llamo Matias soy Front End Developer autodidacta ✌ con foco en Javascript y React.
+I'm Matias Self-taught Front End Developer ✌ with a focus on Javascript and React.
 
-Programar es un hobby que tengo desde hace un tiempo , no me acuerdo exactamente pero todavia Flexbox no tenia soporte ,  fue cuando este tuvo soporte que empeze a disfrutar construir sitios y aplicaciones web ( los que usaban CSS antes de flexbox se acordaran de que teniamos que flotar y limpiar y cambiar displays para tener navegaciones , todo muy divertido 😬) despues de Flexbox aparecio Grid y bueno construir sitios web responsive se volvio super divertido aunque hay que agregar que introdujo su propia complejidad.
+Programming is a hobby that I have had for a while, I don't remember exactly but Flexbox still had no support, it was when it had support that I began to enjoy building sites and web applications (those who used CSS before flexbox will remember that we had to float and clean and change displays to have navigations, all very fun 😬) after Flexbox Grid appeared and well building responsive websites became super fun although it must be added that it introduced its own complexity.
 
-Tengo mucho interes por el ecosistema de React y en especial en librerias de animaciones como Gsap y Framer Motion.
+I am very interested in the React ecosystem and especially in animation libraries such as Gsap and Framer Motion.
 
-## Lenguajes & Tecnologias
+## Languages & Technologies
 <p align="left"> 
   
  
@@ -30,7 +30,7 @@ Tengo mucho interes por el ecosistema de React y en especial en librerias de ani
 <img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 </p>
 
-## Contactame 
+## Contact me
 <div align='left'>
   <a href='https://github.com/matiasbacelar98'><img src='https://user-images.githubusercontent.com/64114079/157298845-98f0c383-e5ab-4b64-9b38-aed5bb013c0e.svg' alt='github' width="38px"></a>&nbsp;&nbsp;&nbsp;
   <a href='https://www.linkedin.com/in/matias-bacelar-371140199/'><img src='https://user-images.githubusercontent.com/64114079/157298847-23027dd4-0529-4c50-955d-8f22d4ea3f4d.svg' alt='linkedin' width="35px"></a>&nbsp;&nbsp;&nbsp;
