@@ -35,17 +35,15 @@ I am very interested in Javascript but I also want to learn about mobile and 3D 
 &nbsp;
 <img align="center" alt="GSAP" width="40px" src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" />
 &nbsp;
-<img align="center" alt="Barba JS" width="40px" src="https://pbs.twimg.com/profile_images/1092796120911228935/5Ql8Sscm_400x400.jpg" />
-&nbsp;
 <img align="center" alt="Gulp JS" width="25px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/gulp.png" /> 
 &nbsp;
 <img align="center" alt="Vite JS" width="40px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" /> 
 &nbsp;
 <img align="center" alt="Webpack JS" width="40px" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" /> 
 &nbsp;
-<img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />
 &nbsp;
-<img align="center" alt="Figma" width="25px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
+<img align="center" alt="Git Bash" width="40px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" />
 &nbsp;
 <img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
