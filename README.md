@@ -1,8 +1,3 @@
-<div align="center">
-  <img width='100%' alt="header-img" src="https://user-images.githubusercontent.com/64114079/157295484-d227b368-41bc-4416-82b2-5d3075042029.svg" />
-</div>
-
-
 ### Hello 👋, my name is Matías
 
 I'm Matías Self-taught Front End Developer/Full Stack ✌ with a focus on Javascript and React although I've also written code in PHP and a bit of C and Python.
