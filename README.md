@@ -1,10 +1,10 @@
 ### Hello 👋, my name is Matías
 
-I'm Matías Front End Developer ✌ with a focus on Javascript and React although I've also written code in PHP and a bit of C and Python.
+I'm a Frontend Developer ✌ with a focus on Javascript and React although I've also written code in PHP and a bit of C and Python.
 
 Programming is a hobby that I have had for a while, I don't remember exactly but Flexbox still had no support, it was when it had support that I began to enjoy building sites and web applications (those who used CSS before flexbox will remember that we had to float and clean and change displays to have navigations, all very fun 😬) after Flexbox Grid appeared and well building responsive websites became super fun although it must be added that it introduced its own complexity.
 
-I am very interested in Javascript but I also want to learn about mobile and 3D development when I have the time.
+I want to learn about data visualization, mobile development and 3D development when I have the time.
 
 ## Languages & Technologies
 <p align="left"> 
