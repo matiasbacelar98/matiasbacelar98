@@ -22,6 +22,8 @@ I want to learn about data visualization, mobile development and 3D development 
 &nbsp;
 <img align="center" alt="Next JS" width="40px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 &nbsp;
+<img align="center" alt="Typescript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+&nbsp;
 <img align="center" alt="Node JS" width="40px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />  
 &nbsp;
 <img align="center" alt="Mongodb" width="90px" src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png" />
@@ -39,6 +41,10 @@ I want to learn about data visualization, mobile development and 3D development 
 <img align="center" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />
 &nbsp;
 <img align="center" alt="Git Bash" width="40px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" />
+ &nbsp;
+ <img align="center" alt="React testing library" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU5VH2aabwRdNv3pJwbhg_XC2NC0BNiofOstdxkTQXc_uwclpG8pl7pFb1h-1EKBlMCtI&usqp=CAU" />
+ &nbsp;
+ <img align="center" alt="jest" width="40px" src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" />
 </p>
 
 ## Contact me
