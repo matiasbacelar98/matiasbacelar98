@@ -1,59 +1,37 @@
-### Hello 👋, my name is Matías
+<h1 align="center">Hi 👋, I'm Matias Bacelar</h1>
+<h3 align="center">I'm a Software Developer specialized in Frontend Development ✌ with a focus on Javascript and React although I've also written code in PHP and a bit of C and Python.</h3>
 
-I'm a Software Developer specialized in Frontend Development ✌ with a focus on Javascript and React although I've also written code in PHP and a bit of C and Python.
+&nbsp;
 
-Programming is a hobby that I have had for a while, I don't remember exactly but Flexbox still had no support, it was when it had support that I began to enjoy building sites and web applications (those who used CSS before flexbox will remember that we had to float and clean and change displays to have navigations, all very fun 😬) after Flexbox Grid appeared and well building responsive websites became super fun although it must be added that it introduced its own complexity.
+- 🌱 I’m currently learning **Design systems**
 
-I want to learn about data visualization, mobile development and 3D development when I have the time.
+- 👨‍💻 All of my projects are available at [matiasbacelar.vercel.app/](matiasbacelar.vercel.app/)
 
-## Languages & Technologies
-<p align="left"> 
-  
- 
-<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+- 💬 Ask me about **Javascript, React, CSS, Framer-motion**
+
+- 📫 How to reach me **matiasbacelar@gmail.com**
+
+- 📄 Know about my experiences [https://matiasbacelar.vercel.app/CV-Matias-Bacelar.pdf](https://matiasbacelar.vercel.app/CV-Matias-Bacelar.pdf)
+
 &nbsp;
-<img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-&nbsp;
-<img align="center" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-&nbsp;
-<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-&nbsp;
-<img align="center" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-&nbsp;
-<img align="center" alt="Next JS" width="40px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
-&nbsp;
-<img align="center" alt="Typescript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-&nbsp;
-<img align="center" alt="Node JS" width="40px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />  
-&nbsp;
-<img align="center" alt="Mongodb" width="90px" src="https://seeklogo.com/images/M/mongodb-logo-427DDF8FDE-seeklogo.com.png" />
-&nbsp;
-<img align="center" alt="Framer Motion" width="35px" src="https://user-images.githubusercontent.com/64114079/151240446-9b1afc59-a885-4826-ad2f-e63499ac5ae0.png" />
-&nbsp;
-<img align="center" alt="GSAP" width="40px" src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" />
-&nbsp;
-<img align="center" alt="Gulp JS" width="25px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/gulp.png" /> 
-&nbsp;
-<img align="center" alt="Vite JS" width="40px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" /> 
-&nbsp;
-<img align="center" alt="Webpack JS" width="40px" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" /> 
-&nbsp;
-<img align="center" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />
-&nbsp;
-<img align="center" alt="Git Bash" width="40px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" />
- &nbsp;
- <img align="center" alt="React testing library" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU5VH2aabwRdNv3pJwbhg_XC2NC0BNiofOstdxkTQXc_uwclpG8pl7pFb1h-1EKBlMCtI&usqp=CAU" />
- &nbsp;
- <img align="center" alt="jest" width="40px" src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/matiasbacelar98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matiasbacelar98" height="30" width="40" /></a>
+<a href="https://dev.to/matiasbacelar98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="matiasbacelar98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matias-bacelar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-bacelar" height="30" width="40" /></a>
+<a href="https://codesandbox.com/matiasbacelar98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="matiasbacelar98" height="30" width="40" /></a>
 </p>
 
-## Contact me
-<div align='left'>
-  <a href='https://github.com/matiasbacelar98'><img src='https://user-images.githubusercontent.com/64114079/157298845-98f0c383-e5ab-4b64-9b38-aed5bb013c0e.svg' alt='github' width="38px"></a>&nbsp;&nbsp;&nbsp;
-  <a href='https://www.linkedin.com/in/matias-bacelar-371140199/'><img src='https://user-images.githubusercontent.com/64114079/157298847-23027dd4-0529-4c50-955d-8f22d4ea3f4d.svg' alt='linkedin' width="35px"></a>&nbsp;&nbsp;&nbsp;
-  <a href='https://matiasbacelar.vercel.app/CV-Matias-Bacelar.pdf'><img src='https://user-images.githubusercontent.com/64114079/157298842-2b7c453a-1611-4a09-84c3-be671c75bba4.svg' alt='curriculum-vitae' width="45px"></a>
-</div>
-    
+&nbsp;
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a><a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" alt="gsap" width="40" height="40"/></a><a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/64114079/151240446-9b1afc59-a885-4826-ad2f-e63499ac5ae0.png" alt="framer-motion" width="40" height="40"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="vite-js" width="40" height="40"/></a><a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/R0wOpi3k0bm70OnRBULpgzqu787ifW6rqn-SjqwhKO8Gl_LQtVS0asyxKuesLDNNJgPfid7z=s900-c-k-c0x00ffffff-no-rj" alt="storybook" width="40" height="40" /></a><a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU5VH2aabwRdNv3pJwbhg_XC2NC0BNiofOstdxkTQXc_uwclpG8pl7pFb1h-1EKBlMCtI&usqp=CAU" alt="rtl" width="40" height="40" /></a>
+</p>
 
 
+&nbsp;
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=matiasbacelar98&show_icons=true&locale=en" alt="matiasbacelar98" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasbacelar98&show_icons=true&locale=en&layout=compact" alt="matiasbacelar98" /></p>
