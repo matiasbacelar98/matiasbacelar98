@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [matiasbacelar.vercel.app/](matiasbacelar.vercel.app/)
 
-- 💬 Ask me about **Javascript, React, CSS, Framer-motion**
+- 💬 Ask me about **Javascript, CSS, animations**
 
 - 📫 How to reach me **matiasbacelar@gmail.com**
 
