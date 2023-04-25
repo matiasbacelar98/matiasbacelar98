@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Bacelar</h1>
-<h3 align="center">I'm a Software Developer specialized in Frontend Development ✌ with a focus on Javascript and React although I've also written code in PHP and a bit of C and Python.</h3>
+<h3 align="center">I'm a Software Developer specialized in Frontend Development ✌ although I've also written code in PHP and a bit of C and Python.</h3>
 
 &nbsp;
 
