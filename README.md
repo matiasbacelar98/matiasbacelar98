@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 🌱 I’m currently learning **Design systems**
+- 🌱 I’m currently learning **Solid**
 
 - 👨‍💻 All of my projects are available at [matiasbacelar.vercel.app/](matiasbacelar.vercel.app/)
 
