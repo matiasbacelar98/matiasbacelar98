@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 🌱 I’m currently learning **Solid**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [matiasbacelar.vercel.app/](matiasbacelar.vercel.app/)
 
