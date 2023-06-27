@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 👨‍💻 My latest portfolio is available at [matiasbacelar.vercel.app/](matiasbacelar.vercel.app/)
+- 👨‍💻 My latest portfolio is available at [matiasbacelar.vercel.app/](https://matiasbacelar.vercel.app/)
 
 - 💬 Ask me about **Javascript, CSS, animations**
 
