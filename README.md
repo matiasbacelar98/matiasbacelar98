@@ -3,8 +3,6 @@
 
 &nbsp;
 
-- 🌱 I’m currently learning **Vue**
-
 - 👨‍💻 My latest portfolio is available at [matiasbacelar.vercel.app/](matiasbacelar.vercel.app/)
 
 - 💬 Ask me about **Javascript, CSS, animations**
