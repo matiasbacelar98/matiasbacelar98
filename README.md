@@ -3,13 +3,13 @@
 
 &nbsp;
 
-- 👨‍💻 My latest portfolio is available at [matiasbacelar.vercel.app/](https://matiasbacelar.vercel.app/)
+- 👨‍💻 My latest portfolio is available at [matiasbacelar.com/](https://matiasbacelar.com/)
 
 - 💬 Ask me about **Javascript, CSS, animations**
 
 - 📫 How to reach me **matiasbacelar@gmail.com**
 
-- 📄 Know about my experiences [https://matiasbacelar.vercel.app/CV-Matias-Bacelar.pdf](https://matiasbacelar.vercel.app/CV-Matias-Bacelar.pdf)
+- 📄 Know about my experiences [https://matiasbacelar.com/CV-Matias-Bacelar.pdf](https://matiasbacelar.com/CV-Matias-Bacelar.pdf)
 
 &nbsp;
 
