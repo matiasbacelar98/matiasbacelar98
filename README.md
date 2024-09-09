@@ -51,16 +51,16 @@
       width="40"
       height="40"
     />
-    <img
-      src="https://www.svgrepo.com/show/368858/nextjs.svg"
+     <img
+      src="https://imgs.search.brave.com/2jqV7AohPrzALz72bm5YOlrcYh7IMkYrqtDIr7w_dgM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZXJj/ZWwuY29tL21rdG5n/L19uZXh0L3N0YXRp/Yy9tZWRpYS9sb2dv/LW5leHRqcy1sb2dv/LWRhcmsuZmE5ZDdm/Yjkuc3Zn"
       alt="nextjs"
       width="40"
       height="40"
     />
     <img
-      src="https://tsh.io/wp-content/uploads/2023/07/framer-motion-logo-1.png"
+      src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"
       alt="framer-motion"
-      width="60"
+      width="50"
       height="40" />
     <img
       src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png"
@@ -68,15 +68,15 @@
       width="40"
       height="40" />
     <img
+      src="https://www.svgrepo.com/show/354397/storybook-icon.svg"
+      alt="storybook"
+      width="40"
+      height="40" />
+    <img
       src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png"
       alt="vite-js"
       width="40"
       height="40" />
-<img
-      src="https://user-images.githubusercontent.com/18430599/38112659-491f9112-3368-11e8-8b65-1725f19a61fa.png"
-      alt="storybook"
-      width="50"
-      height="50" />
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
