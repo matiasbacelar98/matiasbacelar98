@@ -6,7 +6,7 @@ I'm a Software Developer specialized in Frontend Development ✌ I code mainly i
 * 🌍  I'm based in Buenos Aires
 * 🖥️  See my portfolio at [matiasbacelar.com](https://matiasbacelar.com/)
 * ✉️  You can contact me at [matiasbacelar@gmail.com](mailto:matiasbacelar@gmail.com)
-* 🧠  I'm currently learning about kubernetes and kafka
+* 🧠  I'm currently learning about 3d development
 
 ### Skills
 
