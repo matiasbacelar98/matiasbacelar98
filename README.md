@@ -18,15 +18,15 @@ I build production web applications with complex data and real-world workflows â
 
 **Backend / Platform**
 - NestJS (BFF / APIs), Node.js
-- Kotlin (Spring Boot in production environments)
+- Kotlin
+- Spring Boot
 - PostgreSQL, MongoDB
 - AWS + Kubernetes (EKS, ECS, S3, CloudFront, IAM, RDS, etc.)
 - CI/CD with GitHub Actions
 
 ## Lately
 
-- Building and maintaining production systems end-to-end (frontend + backend + cloud).
-- Currently learning **3D on the web**: **Three.js** and **React Three Fiber**.
+- Developing my own custom ia workflow
 
 ---
 Thanks for stopping by ðŸ™‚
